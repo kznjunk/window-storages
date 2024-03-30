@@ -1,8 +1,8 @@
 {
   "name": "@kznjunk/window-storages",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Manipulate the local and session storages",
-  "main": "index.js",
+  "main": "window-storages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
